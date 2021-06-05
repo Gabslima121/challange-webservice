@@ -1,0 +1,62 @@
+body{
+    background-color:black;
+    color:white
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+tr{
+    color: white;
+}
+.banner{
+    background-color: #d81b60;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.editar-form{
+    margin-top: 40px;
+}
+
+.tabela{
+    margin-top: 150px;
+}
+
+.edit {
+    display: inline-block;
+    padding: 5px 10px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    background-color: lightskyblue;
+    border-radius: 6px;
+}
+
+.excluir{
+    display: inline-block;
+    padding: 5px 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    border-radius: 6px; 
+}
+
+.atualizar{
+    margin-top: 10px;
+    display: inline-block;
+    padding: 5px 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    border-radius: 6px; 
+}
+
+.lista{
+    margin-top: 50px;
+}
